@@ -1,0 +1,1 @@
+this is czy's lab activities repository where i swear i will be changing this readme when i get the time this is very temporary i promise
