@@ -11,7 +11,9 @@ This repository contains my exercises and activities for WST this first sem of A
 - *soon*
 
 ### Laboratory Activities
-- *Laboratory Activity 01*
+- [Laboratory Activity 01](https://github.com/CzynonDeTorres/DeTorresCzynonJohnCS3103_WSTactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%201%20-%2005-September-2024)
+    - class schedule using HTML table
+<br><img src="./Laboratory%20Activities/Laboratory%20Activity%201%20-%2005-September-2024/html-tables-output.png" width="300">
 - *Laboratory Activity 02*
 - *Laboratory Activity 03*
 - *Laboratory Activity 04*
