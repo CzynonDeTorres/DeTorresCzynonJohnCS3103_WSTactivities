@@ -1,0 +1,24 @@
+:root{
+    background-color: #97caed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-container{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
+
+.card{
+    margin: 2em;
+    padding: 1em;
+    background-color: #eef6fc;
+    width:20em;
+}
+
+a{
+    text-decoration: none;
+    color: #3498db;
+}
